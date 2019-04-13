@@ -8,6 +8,7 @@ function addFila() {
        '</tr>'
     );
     filas++;
+    //$('#btnGenAcum').removeAttr('disabled');
 }
 
 function graphFX() {
