@@ -76,6 +76,7 @@ function generarAcum() {
         }
         $("#btnAcumGraph").fadeIn();
         $("#btnGenAcum").attr('disabled','disabled');
+        $("#btnAdd").attr('disabled','disabled');
     }
 
 }
